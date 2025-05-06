@@ -30,7 +30,7 @@ A simple Vue 3 application using Firebase for authentication, Firestore data sto
 
 ```bash
 git clone https://github.com/LachtanExtra/email-templater-public
-cd email-templater
+cd email-templater-public
 npm install
 ```
 
